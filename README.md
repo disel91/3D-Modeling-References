@@ -7,7 +7,7 @@ Image numbers breakdown
 
 -Buildings - 57 images
 
--Cocpits - 16 images
+-Cockpits - 16 images
 
 -Helicopters - 7 images
 
