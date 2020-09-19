@@ -47,7 +47,7 @@ Vol 5 - 84 images
 
 -Ranged Weapons - 109 images
 
--VTOL - 5 images
+-VTOL - 20 images
 
 -Tips and Tutorials - 21 images + 2 PDFs
 
