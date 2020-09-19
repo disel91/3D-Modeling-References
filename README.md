@@ -9,6 +9,8 @@ Links added:
 
 - Houdini Learning plan by Dmitry Ryabchuk
 
+- Additional links to tutorials
+
 Image numbers breakdown
 
 -Buildings - 57 images
